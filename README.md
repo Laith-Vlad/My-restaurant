@@ -1,2 +1,2 @@
 # My-restaurant
-![image info](./pictures/rest.jpg)
+![image info](./images/rest.jpg)
