@@ -1,2 +1,2 @@
 # My-restaurant
-![webresturant!](files://"C:\Users\MYLAPTOP\Downloads\resturantwebpage.jpg")
+![image info](./pictures/rest.jpg)
